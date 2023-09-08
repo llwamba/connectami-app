@@ -102,6 +102,9 @@ celerybeat.pid
 __pycache__
 venv
 .vscode/
+media/
+uploads/
+
 
 
 
